@@ -53,10 +53,7 @@ Sales trends over time
 Customer segmentation based on demographics and purchasing behavior
 Performance analysis of different product categories
 Other relevant metrics and patterns
-Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
-License
 This project is licensed under the MIT License. 
 
 ##Attribution
