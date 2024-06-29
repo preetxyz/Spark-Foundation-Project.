@@ -39,7 +39,7 @@ numpy
 matplotlib
 seaborn
 
-EDA Process
+##EDA Process
 The EDA process includes the following steps:
 
 Data Loading: Load the dataset into a pandas DataFrame.
@@ -59,7 +59,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 License
 This project is licensed under the MIT License. 
 
-Attribution
+##Attribution
 This project was developed as part of an internship at Spark Foundation. Special thanks to the Spark FOundation team for their support and guidance.
 
 
